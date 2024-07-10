@@ -1,0 +1,7 @@
+{
+  "name": "smart-medicine-main",
+  "version": "1.0.0",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
